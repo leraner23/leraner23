@@ -1,6 +1,6 @@
 # Hey! I'm Sujan Saru.
 
-<img src="https://i.imgur.com/geNGqFT.jpeg" alt="cover image" style="width: 100%; height: auto;" />
+
 
 ## About Me
 
