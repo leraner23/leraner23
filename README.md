@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a backend developer.
+I'm a java backend developer.
 
 ## Currently Learning
 
