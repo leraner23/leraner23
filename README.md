@@ -30,10 +30,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=leraner23&show_icons=true&theme=onedark" alt="GitHub Stats" width="100%" />
 
-**GitHub Streak**
-
-<img src="https://streak-stats.demolab.com?user=leraner23&theme=onedark" alt="GitHub Streak" width="100%" />
-
 </td>
 <td align="center" valign="top" width="50%">
 
