@@ -30,18 +30,18 @@
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudan04&show_icons=true&theme=onedark" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=leraner23&show_icons=true&theme=onedark" alt="GitHub Stats" width="100%" />
 
 **GitHub Streak**
 
-<img src="https://streak-stats.demolab.com?user=sudan04&theme=onedark" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com?user=leraner23&theme=onedark" alt="GitHub Streak" width="100%" />
 
 </td>
 <td align="center" valign="top" width="50%">
 
 **Top Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudan04&layout=compact&theme=onedark" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leraner23&layout=compact&theme=onedark" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
