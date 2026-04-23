@@ -26,7 +26,7 @@
 
 **Tools & Technologies**
 
-<img src="https://skillicons.dev/icons?i=git,docker,postman,dbeaver,datagrip,cloudinify" alt="Tools" title="Git, Docker, Postman", "Dbeaver", "DataGrip" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,dbeaver,datagrip" alt="Tools" />
 
 
 ## GitHub Activities
