@@ -2,12 +2,13 @@
 
 ## About Me
 
- I'm focused on building strong foundations in Java, Spring Boot, and Spring AI, and I enjoy creating full-stack applications with clean and efficient code.
+ I'm focused on building strong foundations in Java, Spring Boot, and Spring AI, Javascript and I enjoy creating full-stack applications with clean and efficient code with production level integration.
 
  ## Currently Learning
 
 - Spring Boot ⚙️ 
 - Git and GitHub workflows 🔧
+- React
 
 ### Technical Skills
 
@@ -25,7 +26,7 @@
 
 **Tools & Technologies**
 
-<img src="https://skillicons.dev/icons?i=git,docker,postman" alt="Tools" title="Git, Docker, Postman" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,dbeaver,datagrip,cloudinify" alt="Tools" title="Git, Docker, Postman" />
 
 
 ## GitHub Activities
